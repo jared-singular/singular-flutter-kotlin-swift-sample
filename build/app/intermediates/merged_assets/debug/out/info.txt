@@ -1,0 +1,7 @@
+name: Singular-v12.0.2-4575cc3a.master
+env: release
+git_commit: 4575cc3a
+git_branch: master
+version_name: 12.0.2
+version_code:1
+build_date: Sun, 6 Mar 2022 11:40:27 +0200

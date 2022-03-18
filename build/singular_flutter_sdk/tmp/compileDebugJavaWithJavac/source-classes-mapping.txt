@@ -1,0 +1,10 @@
+com/singular/flutter_sdk/SingularSDK.java
+ com.singular.flutter_sdk.SingularSDK
+ com.singular.flutter_sdk.SingularSDK$1
+ com.singular.flutter_sdk.SingularSDK$1$1
+com/singular/flutter_sdk/BuildConfig.java
+ com.singular.flutter_sdk.BuildConfig
+com/singular/flutter_sdk/SingularConstants.java
+ com.singular.flutter_sdk.SingularConstants
+com/singular/flutter_sdk/SingularBridge.java
+ com.singular.flutter_sdk.SingularBridge
